@@ -1,0 +1,11 @@
+path: "https://test-stand.gb.ru/gateway/login"
+
+username: "auf"
+password: "25f088fd21"
+
+create_post: "https://test-stand.gb.ru/gateway/posts"
+chek_post_adress: "https://test-stand.gb.ru/api/posts"
+
+title: New_title
+description: New_description_for_test
+content: content_content_content_content_content_content_content_content_content_content_content_content_
